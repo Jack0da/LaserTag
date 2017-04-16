@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# FourthFruit LASER TAG
 
-You can use the [editor on GitHub](https://github.com/fourthfruit/LaserTag/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fourthfruit/LaserTag/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+FourthFruit will shortly begin their LaserTag project. This project will aim to use the Raspberry Pi or Arduino to make fun laser tag guns. We will hopefully use old nerf guns for the casing but will also be making custom 3D-printed small side-arms if we can get the size down. If you have any ideas **PLEASE** tell them to us **IMMEDIATELY** we need good ideas such as what the best way to compute the procceses (ie. Raspberry Pi or Arduino)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We may always be contacted at support@fourthfruit.com or you can email the dev team at dev@fourthfruit.com!
